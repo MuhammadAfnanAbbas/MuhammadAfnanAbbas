@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Afnan Abbas</h1>
-<h3 align="center">A passionate Quality Assurance Engineer experienced in automation from Pakistan</h3>
+<h3 align="center">A passionate Quality Assurance Engineer experienced in automation and data scrapping from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsp8g23-TV_7pYIxaTP4BKaMwUPG9fp8BjOA&usqp=CAU"/>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **YouTube Playlist downloader app**
 
-- 🌱 I’m currently learning **Python, Data scrapping, TestNG, Selenium, Cypress, React Js and Appium**
+- 🌱 I’m currently enhacning my skills i **Python, Data scrapping, TestNG, Selenium, Cypress, LLM and Appium**
 
-- 💬 Ask me about **Python, QA, scrapping and Automation**
+- 💬 Ask me about **Python, QA, scrapping, bots and Automation**
 
 - 📫 How to reach me **muhammadafnanabbas78@gmail.com**
 
