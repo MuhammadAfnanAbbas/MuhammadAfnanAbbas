@@ -15,7 +15,7 @@
 - I also enjoy building **small utility websites/pages** and **web scrapers** in my free time.
 
 ### 🔭 Current
-- Building a **YouTube Playlist Downloader** app.
+- Building a **YouTube HD Video Downloader** Website.
 
 ### 🧪 What I work with
 - **Automation & Testing:** Selenium, TestNG, Cypress, Appium, Postman
