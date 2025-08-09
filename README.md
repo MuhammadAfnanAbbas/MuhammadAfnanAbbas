@@ -18,7 +18,7 @@
 - Building a **YouTube HD Video Downloader** Website.
 
 ### 🧪 What I work with
-- **Automation & Testing:** Selenium, TestNG, Cypress, Appium, Postman
+- **Automation & Testing:** Selenium, Cypress, Playwright, Katalon, Appium, Postman
 - **Languages & Scripting:** Python (requests, pandas), JavaScript/Node.js
 - **QA Focus Areas:** API, Web, Mobile, CI/CD test orchestration, data validation
 - **Interests:** LLMs for test data generation & QA copilots, lightweight RPA/scraping
